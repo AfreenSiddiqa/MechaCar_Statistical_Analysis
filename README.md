@@ -100,8 +100,13 @@ From the lot 2 sample, sampe mean 1496.14 and the p value is 0.04 which is lower
 ## Study Design: MechaCar vs Competition
 What metric or metrics are you going to test?
  cost, city or highway mpg fuel efficiency, horse power, maintainance and safety rating.
+ 
 What is the null hypothesis or alternative hypothesis?
+Null Hypothesis (Ho): On defined metrics, there is NO statistically significant difference between MechaCar and the competitors.
+Alternative Hypothesis (Ha): On defined metrics, there is statistically significant difference between MechaCar and the competitors.
+
 What statistical test would you use to test the hypothesis? And why?
  Multiple linear regression can be used. Instead of using a single independent variable to account for all variability observed in the dependent variable, a multiple linear regression uses multiple independent variables to account for parts of the total variance observed in the dependent variable.
+ 
 What data is needed to run the statistical test?
  comparable data from the competitors have to be run with the mechacar data.
