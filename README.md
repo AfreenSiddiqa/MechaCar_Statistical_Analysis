@@ -20,11 +20,9 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 This model does predict effectively about the mpg as the r-squared 0.7149
 
-
 ## Summary Statistics on Suspension Coils
 
 The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots
-
 
 ![image](https://user-images.githubusercontent.com/93686963/155866531-54c77099-76b9-412c-8ed7-d86d05b3752f.png)
 
