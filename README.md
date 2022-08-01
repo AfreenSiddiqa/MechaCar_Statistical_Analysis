@@ -109,4 +109,4 @@ What statistical test would you use to test the hypothesis? And why?
  Multiple linear regression can be used. Instead of using a single independent variable to account for all variability observed in the dependent variable, a multiple linear regression uses multiple independent variables to account for parts of the total variance observed in the dependent variable.
  
 What data is needed to run the statistical test?
- comparable data from the competitors have to be run with the mechacar data.
+comparable data from the competitors have to be run with the mechacar data.
