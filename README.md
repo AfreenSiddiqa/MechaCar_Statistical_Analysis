@@ -32,8 +32,6 @@ In the total summary variance of the suspension coils are not exceeding the 100P
 
 ## T-Tests on Suspension Coils
 
-
-
 > #use t.test() to determine if the PSI across ALL lots is statistically different from the pop. mean of 1,500 PSI.
 > t.test(suspension_coil_df$PSI, mu=1500)
 
